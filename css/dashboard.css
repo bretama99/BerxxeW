@@ -1,0 +1,43 @@
+.Nav_bar{
+    height: 45px !important;
+    background-color: #9b59b6 !important;
+    position: relative !important;
+}
+
+.Nav_bar .pull-right {
+    height: 55px !important;
+    margin-top:5px;
+   background-color: #9b59b6 !important;
+   }
+
+.Nav_bar  .dropdown-toggle {
+    background-color: #9b59b6 !important;
+    
+   }
+
+.Nav_bar  .nav-user-photo {
+    height: 44px !important;
+   }
+/*
+.main-content {
+    margin-left:17.5% !important;
+   }
+
+#sidebar {
+    width:17.5%;
+   }
+
+   @media (max-width: 767px) {
+    #sidebar {
+        width:100%;
+        z-index: -1;
+    }
+    .main-content {
+        margin-left:0px !important;
+       }
+}*/
+ 
+
+/*#sidebar-toggle-icon {
+  
+}*/

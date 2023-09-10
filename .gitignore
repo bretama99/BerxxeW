@@ -1,0 +1,5 @@
+*.log
+.env
+.vscode
+files/
+constants/databases/dbcon_eprescription.php
